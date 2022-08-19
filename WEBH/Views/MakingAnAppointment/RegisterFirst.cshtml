@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Задание 1 Форма";
+    Layout = "_LayoutMenu";
+}
+
+@model WebH.Models.RegistrationModelForAnAppointment
+
+<div class="container marketing ">
+    <div class=" padding-boreder">
+
+        <div class="mypadding-form  mycolor-form">
+            <h3 class="mb-3 ">Завдание 1</h3>
+            <br>
+            <h4 class="mb-3">Форма регистрации на консультацию.</h4>
+            <form asp-controller="MakingAnAppointment" asp-action="RegisterFirst" method="post">
+                <div class="form-group">
+                    <label asp-for="FirstName">Имя:</label>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SureName">Фамилия:</label>
+                    <input asp-for="SureName" class="form-control" />
+                    <span asp-validation-for="SureName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email">Email:</label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DateOfConsultation">Желаемая дата консультации</label>
+                    <input asp-for="DateOfConsultation" class="form-control" />
+                    <span asp-validation-for="DateOfConsultation" class="text-danger"></span>
+                </div>
+                <br />
+                <button class="w-100 btn btn-primary btn-lg" type="submit" onclick="sendformf()">Зарегистрироваться</button>
+            </form>
+        </div>
+        <div id="modal-1" class="modal ">
+            <span class="modal-close">
+                <svg viewbox="0 0 40 40">
+                    <path class="close-x" d="M 10,10 L 30,30 M 30,10 L 10,30" />
+                </svg>
+            </span>
+            <div>
+                @if (Model != null)
+                {
+                    <br>
+                    <h5 class="mb-3 ">@Model.FirstName @Model.SureName</h5><br>
+                    <h6 class="mb-3 ">Вы успешно зарегистрированы!</h6><br>
+                    <span> Ожидаем вас на консультацию: <br>@Model.DateOfConsultation;</span><br>
+                }
+            </div>
+        </div>
+        <div class="overlay "></div>
+       
+    </div>
+</div>
+
+
+
+
+<script>
+    var formresult;
+    window.onload = function () {
+        formresult = @ViewBag.Result;
+        setTimeout(checkformf, 300);
+    };
+
+    function checkformf() {
+        if (formresult == 1) {
+            $('.overlay, #modal-1').addClass('shown');
+
+            formresult = 2;
+        }
+
+        $('.overlay, .modal-close').click(
+            function () {
+                $('.modal, .overlay').removeClass('shown');
+            });
+    }
+
+</script>
+
+

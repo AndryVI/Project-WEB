@@ -1,0 +1,134 @@
+﻿@{
+    ViewData["Title"] = "Calc";
+    Layout = "_LayoutMenu";
+}
+
+<div class="container marketing">
+    <div class="Mypadding">
+        <br />
+        <h2 class="display-5 font-weight-normal">Реализация CalcService с помощью JS + AJAX + Controller</h2>
+        <br /><br /><br />
+        <div class="container-md">
+            Значение #1 = <input type="number" id="num1" value="10" /><br />
+            Значение #2 = <input type="number" id="num2" value="5" /><br />
+            <br />
+
+        </div>
+        <div class="container marketing" id="operator_btns">
+            <div class="">
+                Арифметическая операция:<br />
+                <input checked="checked" name="operation" type="radio" value="Add" /> <span> Сложение "+"</span><br />
+                <input name="operation" type="radio" value="Sub" /><span> Вычитание "-"</span><br />
+                <input name="operation" type="radio" value="Mul" /><span> Умножение "*"</span><br />
+                <input name="operation" type="radio" value="Div" /><span> Деление "/"</span><br />
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <br />
+            <input onclick="func()" type="button" value="Вычислить " /><br />
+            <br /><br /><br />
+        </div>
+
+        <div class="row align-items-center">
+            <h4 class="display-5 font-weight-normal" style="color: chocolate"> Результат  = <span id="resultcalc"></span> </h4>
+
+            <br /><br /><br />
+        </div>
+    </div>
+    <div>
+        <h2 class="display-5 font-weight-normal">Реализация с помощью JS</h2>
+        Значение #1 = <input type="number" id="num1" />
+
+        <div id="operator_btns">
+            <button id="plus" class="operator" onclick="op='+'">+</button>
+            <button id="minus" class="operator" onclick="op='-'">-</button>
+            <button id="times" class="operator" onclick="op='*'">x</button>
+            <button id="divide" class="operator" onclick="op='/'">:</button>
+        </div>
+
+        Значение #2 = <input type="number" id="num2" /><br />
+
+        
+
+        <div class="row align-items-center">
+            <br />
+            <button onclick="funcjs()">Вычислить...</button><br />
+            <br /><br /><br />
+        </div>
+
+        <div class="row align-items-center">
+            <h4 class="display-5 font-weight-normal" style="color: chocolate"> Результат = <span id="resultcaljs"></span> </h4>
+            <br /><br /><br />
+        </div>
+
+
+    </div>
+
+
+
+
+
+    <script>
+
+        function func() {
+
+            var inp = document.getElementsByName('operation');
+            var resultAction;
+            var resultActionURL;
+            var num1 = Number(document.getElementById("num1").value);
+            var num2 = Number(document.getElementById("num2").value);
+
+            for (var i = 0; i < inp.length; i++) {
+                if (inp[i].type == "radio" && inp[i].checked) {
+                    resultAction = '/Calc/' + inp[i].value;
+                    resultActionURL = '@Url.Action("Add")';
+                }
+            }
+            if (num1 == null || num2 == null) {
+                alert("Отсутствует 1 или 2 значения: ");
+            }
+            else {
+                $.ajax({
+                    url: resultAction,
+                    type: "POST",
+                    data: { a: num1, b: num2 },
+                    dataType: "json",
+                    success: function (response) {
+                        document.getElementById("resultcalc").innerHTML = response;
+                    }
+
+                });
+            }
+
+        }
+
+        var op; //выбранный оператор
+        function funcjs() {
+            var result;
+            var num1 = Number(document.getElementById("num1").value);
+            var num2 = Number(document.getElementById("num2").value);
+            switch (op) {
+                case '+':
+                    result = num1 + num2;
+                    break;
+                case '-':
+                    result = num1 - num2;
+                    break;
+                case '*':
+                    result = num1 * num2;
+                    break;
+                case '/':
+                    if (num2) {
+                        result = num1 / num2;
+                    } else {
+                        result = 'бесконечность';
+                    }
+                    break;
+                default:
+                    result = 'выберите операцию';
+            }
+
+            document.getElementById("resultcaljs").innerHTML = result;
+        }
+    </script>
+</div>

@@ -1,0 +1,2 @@
+2022-08-13 11:41:59.670 +03:00 [Error] Homework.HomeController: Logged exception
+System.NullReferenceException: Object reference not set to an instance of an object.

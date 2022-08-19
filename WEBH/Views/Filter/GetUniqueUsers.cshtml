@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Уникальные пользователи";
+    Layout = "_LayoutMenu";
+}
+
+<div class="container marketing">
+    <div class="">
+        <div class="jumbotron Spanpadding Divpadding text-center">
+            <h2 class="display-5 fw-bold " id="blocksIMGToggle5">Страница для  отображения количество уникальных пользователей, выполнивших запрос к веб приложению.</h2>
+            <br />
+            <br />
+            <div class="container">
+                <div class="p-1 mb-1 bg-light rounded-3  text-center " id="blocksToggle5">
+                    <div class="container-fluid bg-secondary py-5">
+
+                        <h4> Общие количество уникальных пользователей: = @ViewBag.CountUsers </h4>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

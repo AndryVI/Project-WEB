@@ -1,0 +1,136 @@
+﻿@{
+    ViewData["Title"] = "Заметки";
+    Layout = "_Layout";
+}
+
+@model List<WebH.Models.Notes>
+
+<link href="~/css/Form.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="page-content container note-has-grid" style="padding:5%">
+    <div class="nav nav-pills p-3 bg-white mb-3 rounded-pill align-items-center">
+        &nbsp;&nbsp;<button class=" rounded-pill btn btn-info" onclick="funcadd()">&nbsp;Добавить заметку&nbsp;</button>
+    </div>
+
+    <div class="tab-content bg-transparent">
+        <div id="note-full-container" class="note-has-grid row">
+            @if (Model != null && Model.Count > 0)
+            {
+                foreach (var notes in Model)
+                {
+                    <div class="col-md-4 single-note-item all-category" style="">
+                        <div class="card card-body">
+                            <span class="side-stick"></span>
+                            <h5 class="note-title text-truncate w-75 mb-0" data-noteheading="Book a Ticket for Movie">@notes.Topic</h5>
+                            <p class="note-date font-12 text-muted">@notes.DataTime</p>
+                            <div class="note-content">
+                                <p class="note-inner-content text-muted" data-notecontent="Blandit tempus porttitor aasfs. Integer posuere erat a ante venenatis.">@notes.Context</p>
+                            </div>
+
+
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="text-center">
+                    <h3 class=" nav-pills p-5 bg-info mb-3 rounded-pill text-center text-white">Вы не создали ни одной заметки</h3>
+                </div>
+
+            }
+
+        </div>
+    </div>
+
+
+    <!-- Modal Add notes -->
+
+    <div id="modal-1" class="modalnote">
+        <form asp-controller="Account" asp-action="NotesAdd" class="needs-validation" novalidate="">
+            <div>
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content border-0">
+                        <div class="modal-header bg-info text-white">
+                            <h5 class="modal-title text-white">Заметка</h5>
+                            <button onclick="buttonclose()" type="button" class="close text-white" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="notes-box">
+                                <div class="notes-content">
+                                    <div class="row">
+                                        <div class="col-md-12 mb-3">
+                                            <div class="note-title">
+                                                <label>Тема</label>
+                                                <input type="text" id="note-has-title" class="form-control" minlength="25" name="topic" placeholder="Тема заметки">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="note-description">
+                                                <label>Описание</label>
+                                                <textarea id="note-has-description" class="form-control" minlength="60" name="context" placeholder="Описание заметки" rows="3"></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button onclick="buttonclose()" type="button"   class="btn btn-danger" data-dismiss="modal">Отменить</button>
+                            <button onclick="buttoaad()" type="submit" id="btn-n-add" class="btn btn-info " disabled="disabled">Добавить</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+    </div>
+    <div class="overlay "></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+
+<script>
+    function funcadd() {
+        $('.overlay, #modal-1').addClass('shown');
+    }
+
+    function buttonclose() {
+        $('.modalnote, .overlay').removeClass('shown');
+    }
+
+
+    function buttoaad() {
+
+
+    }
+    let title = document.querySelector("#note-has-title");
+    let description = document.querySelector("#note-has-description");
+
+    title.addEventListener("input", function (event) {
+        let button = document.querySelector("#btn-n-add");
+
+        let lengthtitle = title.value.length
+        let lengthdescription = description.value.length
+        if (lengthtitle > 1 && lengthdescription > 1) { button.disabled = false; }
+        else {button.disabled = true;}
+
+    });
+
+
+    description.addEventListener("input", function (event) {
+        let button = document.querySelector("#btn-n-add");
+
+        let lengthtitle = title.value.length
+        let lengthdescription = description.value.length
+        if (lengthtitle > 1 && lengthdescription > 1) { button.disabled = false; }
+        else { button.disabled = true; }
+
+    });
+
+
+
+
+</script>

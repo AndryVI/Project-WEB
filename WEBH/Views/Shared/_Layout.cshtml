@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - Homework4_Task2_3</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+    <link rel="stylesheet" href="~/css/Test.css" />
+    <link rel="icon" href="~/sun.ico" />
+</head>
+<body>
+    <header class="p-3 text-bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Восьмой пример навигационной панели">
+            <div class="container">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Главная</font></font></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Переключить навигацию">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarsExample07">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Общее</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Menu" asp-action="Timer">Время</a></li>
+                                <li><a class="dropdown-item" asp-controller="Menu" asp-action="Menu">Карикатурный заголовок</a></li>
+                                <li><a class="dropdown-item" asp-controller="Menu" asp-action="GetIpAndBrowser">Ip и Браузер</a></li>
+                                <li><a class="dropdown-item" asp-controller="Calc" asp-action="Calc">Калькулятор</a></li>
+                                <li><a class="dropdown-item" asp-controller="Services" asp-action="Index">Сервис</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" asp-controller="Archive" asp-action="Archive1" data-bs-toggle="dropdown" aria-expanded="false">Форма</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Menu" asp-action="Form">Форма</a></li>
+                                <li><a class="dropdown-item" asp-controller="MakingAnAppointment" asp-action="RegisterSecond">Форма регистарции - 1</a></li>
+                                <li><a class="dropdown-item" asp-controller="MakingAnAppointment" asp-action="RegisterThird">Форма регистарции - 2</a></li>
+                                <li><a class="dropdown-item" asp-controller="Logging" asp-action="SendEmail">Форма отправки сообщения</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" asp-controller="Archive" asp-action="Archive1" data-bs-toggle="dropdown" aria-expanded="false">Информация</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Filter" asp-action="GetUniqueUsers">Пользователей на сайте</a></li>
+                                <li><a class="dropdown-item" asp-controller="Filter" asp-action="LogUserAction">Логи сайта </a></li>
+                                <li><a class="dropdown-item" asp-controller="Logging" asp-action="LoggingToFile">LoggingToFile</a></li>
+                                <li><a class="dropdown-item" asp-controller="Logging" asp-action="SeqLogging">Логи - Seq</a></li>
+                                <li><a class="dropdown-item" asp-controller="Filter" asp-action="Cookies">Запись в Cookies</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                  
+                    <div class="btnMy btn btn-outline-info">Пользователей на сайте: <span id="cout" style="width: 10px" onkeypress="return false">&nbsp;&nbsp;</span></div><br>
+                    <!--<input id="resultcountusers" class="btnMy btn btn-outline-success" type="text" onkeypress="return false" value="Пользователей на сайте: 1">-->
+                    &nbsp;&nbsp;
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <div><a class="btn btn btn-outline-warning" asp-action="SignOut" asp-controller="Account">Выйти</a></div>
+                    }
+                    else
+                    {
+                        <div><a class="btn btn btn-outline-primary" asp-action="SignIn" asp-controller="Account">Войти</a></div>
+                    }
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div id="main">
+        @* Отображение содержимого (которое не входит в секции) связанного представления *@
+        @RenderBody()
+    </div>
+
+    <footer class="py-3 my-4 Myfooter">
+        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+            <li class="nav-item"><a asp-controller="Home" asp-action="Index" class="nav-link px-2 text-muted">Home</a></li>
+            <li class="nav-item"><a asp-controller="home" asp-action="About" class="nav-link px-2 text-muted">About</a></li>
+            <li class="nav-item"><a asp-controller="Home" asp-action="Archive" class="nav-link px-2 text-muted">Archive</a></li>
+        </ul>
+        <p class="text-center text-muted">© 2022 Company, AVI</p>
+    </footer>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/signalr.js/jquery.signalR.js"></script>
+    <script src="~/signalr.js/jquery.signalR.min.js"></script>
+    <script>
+
+        window.onload = function () {
+           
+            $.ajax({
+            url: '/StateStorage/SessionUser',
+            type: "POST",
+                dataType: "json"
+            });
+
+            function getcoun() {
+                $.ajax({
+                    url: '/StateStorage/CountkUser',
+                    type: "POST",
+                    dataType: "json",
+                    success: function (response) {
+                        //document.querySelector("#resultcountusers").value = "Пользователей на сайте:" +  response;
+                        document.getElementById("cout").innerHTML = response;
+                    }
+
+                });
+            }
+
+            setTimeout(getcoun, 50); 
+        };
+
+
+
+
+        setInterval(function () {
+
+            $.ajax({
+                url: '/StateStorage/SessionUser',
+                type: "POST",
+                dataType: "json"
+            });
+        }, 120000);
+
+
+
+        setInterval(function () {
+
+            $.ajax({
+                url: '/StateStorage/CountkUser',
+                type: "POST",
+                dataType: "json",
+                success: function (response) {
+                    //document.querySelector("#resultcountusers").value = "Пользователей на сайте:" + response;
+                    document.getElementById("cout").innerHTML = response;
+                    }
+
+            });
+        }, 30000);
+
+
+
+    </script>
+
+
+</body>
+</html>

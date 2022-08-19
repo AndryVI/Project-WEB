@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Форма";
+    Layout = "_LayoutMenu";
+}
+
+@model WebH.Models.GetForm
+
+<div class="container marketing">
+    <div class="">
+        <div class="jumbotron Spanpadding Divpadding">
+            <div class="container">
+                <div class="form-w3">
+                    <h3>Форма для данных:</h3>
+                    <pre>
+                    <form action="/Menu/Form" method="post">
+                    <label>First</label>
+                    <input name="first" value="Length" />
+                    <br />
+                    <label>Second</label>
+                    <input name="second" value="Height" />
+                    <br />
+                    <label>Count</label>
+                    <input type="number" name="count" value=100 />
+                    <br />
+                    <button type="submit">Create</button>
+                    </form>
+                    </pre>
+                </div>
+                @{ if (Model != null)
+                    {
+                        <div class="w3-example ">
+                            <h3>Данные:</h3>
+                            <ul>
+                                <li>First = @Model.First</li>
+                                <li>Second = @Model.Second</li>
+                                <li>Count = @Model.Count</li>
+                            </ul>
+                            <h3>Внесены в Output</h3>
+                        </div>
+                    }
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+

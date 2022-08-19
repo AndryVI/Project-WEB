@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Months";
+    Layout = "_LayoutMenu";
+}
+
+<div class="container marketing " style="padding: 0 0 0 20px">
+    <div class="Mypadding">
+        <h2>Месяца</h2>
+        <table>
+            @foreach (var item in @ViewBag.Months)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                </tr>
+            }
+        </table>
+
+    </div>
+
+</div>

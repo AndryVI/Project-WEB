@@ -1,0 +1,382 @@
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.MvcApplicationPartsAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\appsettings.Development.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\appsettings.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\Homework.exe
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\Homework.deps.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\Homework.Views.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.Manifest.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.xml
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\scopedcss\bundle\Homework.styles.css
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.TagHelpers.input.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.TagHelpers.output.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.RazorCoreGenerate.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Calc\Calc.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu2.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Day.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Months.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAbout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMenu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_TimePartial.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.csproj.CopyComplete
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\Archive.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Timer.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\ShowCookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Visitors.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\bin\Debug\net5.0\libman.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Homework.csproj.AssemblyReference.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\06. Хранение состояния\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Cookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\appsettings.Development.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\appsettings.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\libman.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\Homework.exe
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\Homework.deps.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\Homework.Views.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\bin\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.csproj.AssemblyReference.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.MvcApplicationPartsAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.Manifest.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.xml
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\scopedcss\bundle\Homework.styles.css
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.TagHelpers.input.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.TagHelpers.output.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.RazorCoreGenerate.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Calc\Calc.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\Archive.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu2.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Timer.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Day.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Months.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAbout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMenu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_TimePartial.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Cookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\ShowCookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Visitors.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Homework.csproj.CopyComplete
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\07. Привязка модели\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Form.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\appsettings.Development.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\appsettings.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\libman.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\Homework.exe
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\Homework.deps.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\Homework.Views.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\bin\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.MvcApplicationPartsAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.Manifest.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.xml
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\scopedcss\bundle\Homework.styles.css
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.TagHelpers.input.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.TagHelpers.output.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.RazorCoreGenerate.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Calc\Calc.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Home\Archive.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Form.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu2.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Timer.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Services\Day.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Services\Months.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAbout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMenu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_TimePartial.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Cookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\ShowCookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Visitors.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.csproj.CopyComplete
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterSecond.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterThird.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\User\ddd.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterFirst.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\08. Формы и валидация\01 HTMLFormSamples\Homework\obj\Debug\net5.0\Homework.csproj.AssemblyReference.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\appsettings.Development.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\appsettings.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\libman.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\Homework.exe
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\Homework.deps.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\Homework.Views.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\bin\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.csproj.AssemblyReference.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.MvcApplicationPartsAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.Manifest.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.xml
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\scopedcss\bundle\Homework.styles.css
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.TagHelpers.input.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.TagHelpers.output.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.RazorCoreGenerate.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Calc\Calc.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\Archive.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Form.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu2.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Timer.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Day.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Services\Months.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAbout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMenu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_TimePartial.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Cookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\ShowCookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Visitors.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\User\ddd.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterFirst.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterSecond.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterThird.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Homework.csproj.CopyComplete
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Filter\GetUniqueUsers.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Menu\GetIpAndBrowser.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\09. Фильтры\Samples\Homework\obj\Debug\net5.0\Razor\Views\Filter\LogUserAction.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\appsettings.Development.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\appsettings.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\libman.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Homework.exe
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Homework.deps.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Homework.Views.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.csproj.AssemblyReference.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.MvcApplicationPartsAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.Manifest.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.xml
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\scopedcss\bundle\Homework.styles.css
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.TagHelpers.input.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.TagHelpers.output.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.RazorCoreGenerate.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Calc\Calc.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Filter\GetUniqueUsers.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Filter\LogUserAction.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Home\Archive.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Form.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\GetIpAndBrowser.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu2.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Menu\Timer.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Services\Day.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Services\Months.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAbout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMenu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Shared\_TimePartial.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Cookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\ShowCookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Visitors.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\User\ddd.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterFirst.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterSecond.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\User\RegisterThird.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Homework.csproj.CopyComplete
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Logging\ReloadChangeConfiguration.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Logging\GetConfiguration.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Logging\SendEmail.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\Seq.Extensions.Logging.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Logging\SeqLogging.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\NetEscapades.Extensions.Logging.RollingFile.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\obj\Debug\net5.0\Razor\Views\Logging\LoggingToFile.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\appsettings.Test.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\appsettings.Task-1.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\appsettings.Task-5.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\MailKit.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\MimeKit.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\10. Конфигурации и логирование\ConfigurationSamples\Homework\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\appsettings.Development.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\appsettings.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\appsettings.Task-1.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\appsettings.Task-5.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\appsettings.Test.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\libman.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Homework.exe
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Homework.deps.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Homework.Views.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\MailKit.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\MimeKit.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\NetEscapades.Extensions.Logging.RollingFile.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\bin\Debug\net5.0\Seq.Extensions.Logging.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.csproj.AssemblyReference.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.MvcApplicationPartsAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.RazorAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.Manifest.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\staticwebassets\Homework.StaticWebAssets.xml
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\scopedcss\bundle\Homework.styles.css
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.TagHelpers.input.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.TagHelpers.output.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.RazorCoreGenerate.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Calc\Calc.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Filter\GetUniqueUsers.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Filter\LogUserAction.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Home\Archive.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Logging\GetConfiguration.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Logging\LoggingToFile.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Logging\ReloadChangeConfiguration.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Logging\SendEmail.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Logging\SeqLogging.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Menu\Form.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Menu\GetIpAndBrowser.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Menu\Menu2.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Menu\Timer.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Services\Day.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Services\Index.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Services\Months.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAbout.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMenu.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Shared\_TimePartial.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Cookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\ShowCookies.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\StateStorage\Visitors.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.RazorTargetAssemblyInfo.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.Views.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.csproj.CopyComplete
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\ref\Homework.dll
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.pdb
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\MakingAnAppointment\ddd.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\MakingAnAppointment\RegisterFirst.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\MakingAnAppointment\RegisterSecond.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\MakingAnAppointment\RegisterThird.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Account\Notes.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Account\SignIn.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Shared\_LayoutSignInOut.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Account\Denied.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Account\SignInAccess.cshtml.g.cs
+G:\Документи\___Обучение ____\C#\#C ASP.NET Core\11. Аутентификация и авторизация\Authentication\Homework\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs

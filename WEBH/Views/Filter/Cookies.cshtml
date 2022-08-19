@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Cookies";
+    Layout = "_LayoutMenu";
+}
+
+<div class="container marketing Divpadding" style="padding: 0 0 0 20px">
+    <div class="Mypadding">
+        <div class="container-md ">
+            <div class="">
+                <h1>Запись информация в Cookies с датой устареваная </h1>
+
+                <form asp-controller="Filter" asp-action="AddCookies" method="post">
+                    <div class="container-md ">
+                        <label>Значение для записи в Cookies =</label>
+                        <input type="text" name="value"  value="Test Cookies" />
+                        <br />
+                        <br />
+                        <label>Срок действия Cookies =</label>
+                        <input id="party" type="datetime-local" name="timeExpires" value="2022-09-01T08:30" min="2022-09-01T00:00" max="2022-10-01T00:00">
+                        <br />
+                        <br />
+
+                    </div>
+                    <div class="row align-items-center">
+                        <input type="submit">
+                    </div>
+                    
+                </form>
+            </div>
+           
+
+        </div>
+    </div>
+    <div class="list-group Mypadding">
+        <a asp-controller="Filter" asp-action="ShowCookies" class="list-group-item list-group-item-action list-group-item-primary">Посмотреть куки </a>
+
+    </div>
+</div>

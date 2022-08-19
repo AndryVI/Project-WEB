@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Register";
+    Layout = "_LayoutSignInOut";
+}
+
+
+@model WebH.Models.RegisterBindingModel
+
+
+<form asp-controller="account" asp-action="register" method="post">
+    <img class="unselectable mb-4 unselectable" src="/sivvus_weather_symbols.svg" alt="" width="100" height="100">
+    <h1 class="unselectable h3 mb-3 fw-normal">Введите данные для регистрации</h1>
+
+    <div class="form-group">
+        <label asp-for="Login"></label>
+        <input asp-for="Login" class="form-control" />
+        <span asp-validation-for="Login" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PasswordConfirm"></label>
+        <input asp-for="PasswordConfirm" class="form-control" />
+        <span asp-validation-for="PasswordConfirm" class="text-danger"></span>
+    </div>
+    <br />
+
+    <div class="list-group-item list-group-item-danger" asp-validation-summary="ModelOnly"></div>
+
+    <button class="w-100 btn btn-lg btn-primary" type="submit">Зарегистрироваться</button>
+
+    <p class="mt-5 mb-3 text-muted">©2022</p>
+</form>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+

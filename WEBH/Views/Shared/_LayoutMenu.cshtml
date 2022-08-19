@@ -1,0 +1,96 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header class="p-3 text-bg-dark">
+        <nav class="navbar navbar-expand-lg bg-light rounded" aria-label="Одиннадцатый пример навигационной панели">
+            <div class="container">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Archive"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Меню</font></font></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Переключить навигацию">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarsExample09">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">Модуль 1-4</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Menu" asp-action="Timer">Время</a></li>
+                                <li><a class="dropdown-item" asp-controller="Menu" asp-action="Menu2">Тест-3</a></li>
+                                <li><a class="dropdown-item" asp-controller="Menu" asp-action="GetIpAndBrowser">Ip и Браузер</a></li>
+                            </ul>
+
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" asp-controller="Archive" asp-action="Archive1" data-bs-toggle="dropdown" aria-expanded="false">Модуль-5</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Calc" asp-action="Calc">Задание-1</a></li>
+                                <li><a class="dropdown-item" asp-controller="Services" asp-action="Index">Задание-2</a></li>
+
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" asp-controller="Archive" asp-action="Archive1" data-bs-toggle="dropdown" aria-expanded="false">Модуль-6</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="StateStorage" asp-action="Visitors">Задание-1</a></li>
+                                <li><a class="dropdown-item" asp-controller="Filter" asp-action="Cookies">Задание-2</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Menu" asp-action="Form"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Модуль-7</font></font></a>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" asp-controller="Archive" asp-action="Archive1" data-bs-toggle="dropdown" aria-expanded="false">Модуль-8</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="MakingAnAppointment" asp-action="RegisterFirst">Завдання-1</a></li>
+                                <li><a class="dropdown-item" asp-controller="MakingAnAppointment" asp-action="RegisterSecond">Завдання-2</a></li>
+                                <li><a class="dropdown-item" asp-controller="MakingAnAppointment" asp-action="RegisterThird">Завдання-3</a></li>
+
+                            </ul>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" asp-controller="Archive" asp-action="Archive1" data-bs-toggle="dropdown" aria-expanded="false">Модуль-9</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Filter" asp-action="GetUniqueUsers">Завдання-1</a></li>
+                                <li><a class="dropdown-item" asp-controller="Filter" asp-action="LogUserAction">Завдання-2</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" asp-controller="Archive" asp-action="Archive1" data-bs-toggle="dropdown" aria-expanded="false">Модуль-10</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Logging" asp-action="ReloadChangeConfiguration">Завдання-1</a></li>
+                                <li><a class="dropdown-item" asp-controller="Logging" asp-action="SendEmail">Завдання-2</a></li>
+                                <li><a class="dropdown-item" asp-controller="Logging" asp-action="LoggingToFile">Завдання-3</a></li>
+                                <li><a class="dropdown-item" asp-controller="Logging" asp-action="SeqLogging">Завдання-4</a></li>
+                                <li><a class="dropdown-item" asp-controller="Logging" asp-action="GetConfiguration">Завдання-5</a></li>
+
+                            </ul>
+                        </li>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="Notes"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Модуль-11</font></font></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

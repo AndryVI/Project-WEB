@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Журнал действий пользователя";
+    Layout = "_LayoutMenu";
+}
+
+@model List<WebH.Models.LogActionModel>
+
+<div class="container marketing">
+    <div class="">
+        <div class="jumbotron Spanpadding Divpadding ">
+            <h2 class="display-5 fw-bold text-center " id="blocksIMGToggle5">Страница для  отображения журнал действий пользователя.</h2>
+            <br />
+            <br />
+
+            <div class="bd-example d-md-flex">
+                <div class="overflow-auto p-3 mb-3 mb-md-0 me-md-3 bg-light" style="width: 100%; max-height: 800px;">
+                    @foreach (var item in Model)
+                    {
+                    <div class="p-3 mb-2 bg-secondary text-white ">
+                        <h5>Метод: <span class="text-dark">@item.DisplayName</span> </h5>
+                        <h5>Вызван: <span class="text-info"> @item.DateAndTime </span></h5>
+                        <h5>Пользователем: <span class="text-info">Id</span> - <span class="text-dark"> @item.IdUser</span> </h5> 
+                        <h5>На выполнение  обращения к нему затрачено <span class="text-info">@item.TimeElapsed </span> </h5> 
+                    </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
